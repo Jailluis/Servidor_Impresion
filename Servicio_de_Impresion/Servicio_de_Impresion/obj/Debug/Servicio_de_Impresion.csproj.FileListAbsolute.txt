@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\Servicio_de_Impresion\Servicio_de_Impresion\obj\Debug\Servicio_de_Impresion.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Servicio_de_Impresion\Servicio_de_Impresion\obj\Debug\Servicio_de_Impresion.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Servicio_de_Impresion\Servicio_de_Impresion\bin\Debug\Servicio_de_Impresion.exe.config
+C:\Users\hp\source\repos\Servicio_de_Impresion\Servicio_de_Impresion\bin\Debug\Servicio_de_Impresion.exe
+C:\Users\hp\source\repos\Servicio_de_Impresion\Servicio_de_Impresion\bin\Debug\Servicio_de_Impresion.pdb
+C:\Users\hp\source\repos\Servicio_de_Impresion\Servicio_de_Impresion\obj\Debug\Servicio_de_Impresion.exe
+C:\Users\hp\source\repos\Servicio_de_Impresion\Servicio_de_Impresion\obj\Debug\Servicio_de_Impresion.pdb
+C:\Users\jaill\source\repos\Servicio_de_Impresion\Servicio_de_Impresion\bin\Debug\Servicio_de_Impresion.exe.config
+C:\Users\jaill\source\repos\Servicio_de_Impresion\Servicio_de_Impresion\bin\Debug\Servicio_de_Impresion.exe
+C:\Users\jaill\source\repos\Servicio_de_Impresion\Servicio_de_Impresion\bin\Debug\Servicio_de_Impresion.pdb
+C:\Users\jaill\source\repos\Servicio_de_Impresion\Servicio_de_Impresion\obj\Debug\Servicio_de_Impresion.csproj.CoreCompileInputs.cache
+C:\Users\jaill\source\repos\Servicio_de_Impresion\Servicio_de_Impresion\obj\Debug\Servicio_de_Impresion.exe
+C:\Users\jaill\source\repos\Servicio_de_Impresion\Servicio_de_Impresion\obj\Debug\Servicio_de_Impresion.pdb
